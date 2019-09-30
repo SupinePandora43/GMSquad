@@ -1,0 +1,18 @@
+1. Sbox (SandBox) - Сандбокс;
+2. Basebuild (BaseBuild) - война между командами, требуется добывать ресурсы, строить здания, уничтожить вражескую крепость;
+3. C&R (Cops And Runners) - есть коп (он садит в тюрьму сбежавших), сбежавшие - должны сбегать от копа, могут быть специальные возможности;
+4. Dropzone (Dropzone) - царь горы, много экшена;
+5. Football (Extreme Football Throwdown) - футбол в американском понимании этого слова;
+11. Gungame (GunGame) - гонка вооружений;
+12. Pirate (Pirate Ship Wars Gamemode) - пиратские корабли;
+13. Ragdoll (Ragdoll Combat) - сражение рэгдолами;
+14. Slave (Slave of GMod) - Мясной шутер с видом сверху в стиле Hotline Maiami;
+15. Hidden (The Hidden) - Шутер, цель которого является поймать мутанта, который обладает различными способностями;
+16. Longdark (The Long Dark Gamemode) - выживание в холоде;
+17. Guess (Guess Who) - Hide&Seek + PropHunt;
+18. Melon (Melonbomber) - сражение с помощью взрывных арбузов;
+19. Quake (Quake 3 Gmod) - Quake III Arena, увы нет такого экшена,как в оригинале;
+20. Redead (ReDead) - Зомби выживание;
+21. Slashers (Slashers Gamemode) - хоррор с маньяком, очень темно , сыро и страшно;
+22. Lava (The Floor is Lava! Workshop Edition) - пол это лава;
+23. Starship Troopers - Tower Defense. Мы являемся космическими защитниками и защищаем базу от инопланетян, коих образ принимает обычный лев-муравей из HL2.
